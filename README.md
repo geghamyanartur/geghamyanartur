@@ -1,4 +1,7 @@
-# 🌟 Hi, I'm **Artur**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there!+I'm+Artur+%F0%9F%91%8B;Full+Stack++Engineer+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+</p>
+
 ### 🚀 Full-Stack Developer | Vue & React Lover | Laravel Artisan | Problem Solver  
 
 Welcome to my digital workshop! I build clean, scalable, and high-performance web apps—from elegant frontends to solid backend architectures. I’m passionate about writing beautiful code, crafting intuitive UI/UX, and constantly learning new technologies.
